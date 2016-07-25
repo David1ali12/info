@@ -1,8 +1,6 @@
  Command                      | Usage
 ------------------------------|-----------------------------------------------------------------------------------------------
 help                          | Shows list of commands
-quickrestart                  | Quickly restart your server. (**Does not restart, nor reduce memory**)
-multiverse [command] [args]   | Manage multiple servers in 1 OgarUl instance. See multiverse
 split [id] [count]            | Splits a player
 ban [ip]                      | Bans an IP and sends a Message. Do (**ban record**) to record a ban.
 unban [ip]                    | Unbans an IP
