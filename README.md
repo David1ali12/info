@@ -2,7 +2,7 @@
 ------------------------------|-----------------------------------------------------------------------------------------------
 help                          | Shows list of commands
 split [id] [count]            | Splits a player
-ban [ip]                      | Bans an IP and sends a Message. Do (**ban record**) to record a ban.
+ban [ip]                      | bans the player
 unban [ip]                    | Unbans an IP
 kickbot [number]             | Kill a specific number of bots. (_Leave blank to kill all_)
 merge [id]                     | Forces a player to merge
